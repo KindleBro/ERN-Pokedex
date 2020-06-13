@@ -1,2 +1,2 @@
-# MERN-Pokedex
-Basic MERN Pokedex
+# ERN-Pokedex
+Basic MERN Pokedex without the M
